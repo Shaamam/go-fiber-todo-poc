@@ -1,0 +1,6 @@
+database:
+  user: your username
+  password: your password
+  dbname: your db name
+  port: your port
+  host: your host
