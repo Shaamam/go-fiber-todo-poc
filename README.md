@@ -8,7 +8,7 @@ go mod init {project-name}
 
 ## Build Command:
 ```
-go mod tidy
+go mod tidy 
 ```
 
 ## Start Command:
